@@ -13,8 +13,6 @@ import
 
 export options
 
-## .. include:: hmatching.rst
-
 const
   nnkStrKinds* = {
     nnkStrLit .. nnkTripleStrLit
